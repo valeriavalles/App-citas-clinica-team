@@ -1,4 +1,4 @@
-package com.upc.odontostet;
+package com.clinicadental.odontostet;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.upc.odontostet", appContext.getPackageName());
+        assertEquals("com.clinicadental.odontostet", appContext.getPackageName());
     }
 }

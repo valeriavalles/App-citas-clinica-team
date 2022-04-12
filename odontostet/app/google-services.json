@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "35093274465",
+    "firebase_url": "https://proyectoodontostet-default-rtdb.firebaseio.com",
+    "project_id": "proyectoodontostet",
+    "storage_bucket": "proyectoodontostet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35093274465:android:107491a575e60e34372f20",
+        "android_client_info": {
+          "package_name": "com.clinicadental.odontostet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35093274465-qce5kaol56jansb4nm6kt945u4jsvpn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.clinicadental.odontostet",
+            "certificate_hash": "199b92cdb9c714ecd2e5ec070faeff678faebc1f"
+          }
+        },
+        {
+          "client_id": "35093274465-dtgg7v5e243qvnara6ru42mh4attplfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1tPCilgyXl2SnuTYovqdXhXSIuUaM8c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35093274465-dtgg7v5e243qvnara6ru42mh4attplfh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

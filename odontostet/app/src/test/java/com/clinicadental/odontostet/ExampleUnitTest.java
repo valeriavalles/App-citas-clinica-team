@@ -1,4 +1,4 @@
-package com.upc.odontostet;
+package com.clinicadental.odontostet;
 
 import org.junit.Test;
 
