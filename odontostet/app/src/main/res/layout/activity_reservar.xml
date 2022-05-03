@@ -24,7 +24,7 @@
         android:layout_width="207dp"
         android:layout_height="58dp"
         android:layout_marginTop="36dp"
-        android:text="     Cirugía Oral"
+        android:text="Cirugía Oral"
         android:textSize="25dp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -48,7 +48,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Costo de consulta referencial S/50.00"
-        app:layout_constraintBottom_toTopOf="@+id/imageView3"
+        app:layout_constraintBottom_toTopOf="@+id/btnfacebook"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
@@ -56,7 +56,7 @@
         app:layout_constraintVertical_bias="0.445" />
 
     <ImageView
-        android:id="@+id/imageView3"
+        android:id="@+id/btnfacebook"
         android:layout_width="48dp"
         android:layout_height="52dp"
         android:layout_marginStart="40dp"
@@ -66,14 +66,14 @@
         app:srcCompat="@drawable/ic_home" />
 
     <ImageView
-        android:id="@+id/imageView4"
+        android:id="@+id/btngoogle"
         android:layout_width="48dp"
         android:layout_height="52dp"
         android:layout_marginBottom="10dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/imageView5"
         app:layout_constraintHorizontal_bias="0.508"
-        app:layout_constraintStart_toEndOf="@+id/imageView3"
+        app:layout_constraintStart_toEndOf="@+id/btnfacebook"
         app:layout_constraintTop_toBottomOf="@+id/textView6"
         app:layout_constraintVertical_bias="0.987"
         app:srcCompat="@drawable/ic_person" />

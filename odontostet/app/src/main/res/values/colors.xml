@@ -10,4 +10,12 @@
     <color name="plomo">#F8F8F8</color>
     <color name="odontostet">#F8F8F8</color>
 
+    <color name="blanco">#FFFFFF</color>
+    <color name="negro">#000000</color>
+    <color name="gallery">#1E88E5</color>
+    <color name="camera">#F57C00</color>
+    <color name="cancel">#EF5350</color>
+    <color name="accept">#43A047</color>
+    <!-- <color name="camera">#43A047</color> -->
+
 </resources>

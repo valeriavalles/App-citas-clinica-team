@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Cursos EPE/DAM - Aplicativos moviles/ProyectoFinal/odontostet/app/src/main/res/layout/activity_detail.xml" value="0.1644021739130435" />
+        <entry key="..\:/Cursos EPE/DAM - Aplicativos moviles/ProyectoFinal/odontostet/app/src/main/res/layout/activity_perfil.xml" value="0.264" />
+        <entry key="..\:/Cursos EPE/DAM - Aplicativos moviles/ProyectoFinal/odontostet/app/src/main/res/layout/activity_perfilregistrado.xml" value="0.1" />
+        <entry key="..\:/odontostet/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/odontostet/app/src/main/res/layout/activity_map.xml" value="0.36666666666666664" />
+        <entry key="..\:/odontostet/app/src/main/res/layout/activity_maps.xml" value="0.25" />
+        <entry key="..\:/odontostet/app/src/main/res/layout/activity_perfil.xml" value="0.25" />
+        <entry key="..\:/odontostet/app/src/main/res/layout/activity_perfil_prueba.xml" value="0.26262626262626265" />
+        <entry key="..\:/odontostet/app/src/main/res/layout/activity_perfilregistrado.xml" value="0.2814814814814815" />
+        <entry key="..\:/odontostet/app/src/main/res/layout/activity_registrar.xml" value="0.25" />
+        <entry key="..\:/odontostet/app/src/main/res/layout/activity_reservar.xml" value="0.36666666666666664" />
+        <entry key="app/src/main/res/drawable/dot.xml" value="0.1325" />
+        <entry key="app/src/main/res/drawable/dot_cita.xml" value="0.1325" />
+        <entry key="app/src/main/res/drawable/ic_buscar.xml" value="0.1225" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.1225" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1225" />
+        <entry key="app/src/main/res/drawable/ic_location.xml" value="0.1225" />
+        <entry key="app/src/main/res/drawable/ic_person.xml" value="0.1225" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.1496990966796875" />
+        <entry key="app/src/main/res/layout/activity_editar_perfil.xml" value="0.2033432006835938" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.267108154296875" />
+        <entry key="app/src/main/res/layout/activity_perfil.xml" value="0.2419489542643229" />
+        <entry key="app/src/main/res/layout/activity_perfilregistrado.xml" value="0.231927490234375" />
+        <entry key="app/src/main/res/layout/activity_registrar.xml" value="0.1442982456140351" />
+        <entry key="app/src/main/res/layout/activity_reservacion_exitosa.xml" value="0.22922515869140614" />
+        <entry key="app/src/main/res/layout/activity_reservaciones.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_reservar.xml" value="0.17701812744140627" />
+        <entry key="app/src/main/res/layout/fragment_seleccionar_horario.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/item_horario_layout.xml" value="0.13737945556640627" />
+        <entry key="app/src/main/res/layout/item_reservacion_layout.xml" value="0.19498082211143097" />
+        <entry key="app/src/main/res/layout/item_service_layout.xml" value="0.38047281901041674" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

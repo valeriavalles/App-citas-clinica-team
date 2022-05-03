@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">odontostet</string>
+    <string name="facebook_app_id">3088193231433304</string>
+    <string name="fb_login_protocol_scheme">fb3088193231433304</string>
+    <string name="facebook_client_token">86de36779d0786262b77a7d44fd489e3</string>
+    <string name="exit">Salir</string>
+    <string name="home">Home</string>
+    <string name="about_me">Cita en linea</string>
+    <string name="session_type">Tipo de sesión</string>
+    <string name="update_account" />
+    <string name="select_date">Seleccionar Cita</string>
+    <string name="schedule_date">Ver Citas</string>
+    <string name="hola">Hola</string>
+    <string name="accede_a_todos_tus_servicios_disponibles">Accede a todos tus servicios disponibles</string>
+
+    <string name="service_cost_hint">Costo de consulta referencial S/</string>
+    <string name="reservacion_mensaje">Te esperamos el %1$s a las %2$s con el %3$s</string>
+    <string name="cancela_reservacion">Recuerda que puedes cancelar tus citas con 1 día de anticipación.</string>
+    <string name="siguiente_cita">Tu próxima cita</string>
+    <string name="title_citas">Mis Citas</string>
+    <string name="empty_citas">No cuentas con citas por el momento</string>
+
+    <string name="read_permission_explain">Necesitamos permiso para acceder a tus fotos para que puedas elegir desde tu galería. ¿Deseas dar el permiso?</string>
+    <!-- <string name="write_permission_explain">Necesitamos permiso para guardar en tus fotos para que podamos guardar tu foto editada. ¿Deseas dar el permiso?</string> -->
+    <string name="camera_permission_explain">Necesitamos permiso para acceder a tu cámra para que podamos tomar tu foto. ¿Deseas dar el permiso?</string>
 </resources>
